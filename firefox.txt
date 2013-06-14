@@ -1,0 +1,171 @@
+<meta name="keywords" content=" KEYWORDS, KEYWORDS, KEYWORDS">
+<meta name="Description" content="AND MY BLOG IS ALL ABOUT">
+<meta name="robots" content="index,follow">
+<meta name="author" content="YOUR NAME">
+
+
+<!--Created by http://www.geckoandfly.com
+
+<body>-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+	<head>
+		<title><$BlogTitle$></title>
+		<style type="text/css">
+			<!--
+			body{margin:0px;padding:0px;background:#002164 url('http://photos1.blogger.com/blogger/7994/1253/1600/firefox.0.jpg') top  right no-repeat;color:#B1D1DB;font-style:normal; font-variant:normal; font-weight:normal; font-size:0.9em; font-family:Trebuchet MS, Trebuchet, Verdana, Sans-Serif}
+			a{color:#FF4500;}
+			a:hover{color:#999;}
+			div#mainClm{float:left;padding:13px 0px 10px 5%;width:68%;}
+			div#sideBar{margin:250px 1em 0px 0px;padding:0px;text-align:right;}
+			#header{padding:0px 0px 8px 0px;margin:0px 0px 20px 0px;color:#8B4513;}
+			h1, h2, h3, h4, h5, h6{padding:0px;margin:0px;}
+			h1{padding:18px 0px 10px 5%;margin:0px 0px 8px 0px;color:#FFFAFA;font:bold 266% Verdana,Sans-Serif;}
+			h2{margin:0px 0px 10px 0px;padding:2px 0px 2px 5px;color:#fff;font:bold 110% Verdana,Sans-Serif;}
+			h3{margin:10px 0px 0px 0px;padding:0px 0px 0px 2%;border-bottom:dotted 1px #cccccc;color:#777777;font-size:90%;text-align:left;}
+			h4{color:#aa0033;}
+			h6{color:#FF4500;font:bold 125% Verdana,Sans-Serif;}
+			#sideBar ul{margin:0px 0px 33px 0px;padding:0px 0px 0px 0px;list-style-type:none;font-size:95%;}
+			#sideBar li{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;list-style-type:none;font-size:105%;}
+			#description{padding:0px 0px 0px 5%;margin:0px;color:#FF4500;font:bold 85% Verdana,Sans-Serif;}
+			.blogPost{margin:0px 6px 30px 5px;font-size:100%;;text-align:justify}
+			#sideBar ul a{padding:2px;margin:1px;border:none;color:#666666;text-decoration:none;}
+			#sideBar ul a:link{color:#666666;}
+			#sideBar ul a:visited{color:#999999;}
+			#sideBar ul a:active{color:#ff0000;}
+			#sideBar ul a:hover{color:#DE7008;text-decoration:none;}
+			pre, code{color:#999999;}
+			strike{color:#999999;}
+			.bug{padding:5px;border:0px;}
+			.byline{padding:0px;margin:0px;color:#999;font-size:80%;}
+			.byline a{border:none;color:#FF4500;text-decoration:none;}
+			.byline a:hover{text-decoration:underline;}
+			-->
+		</style>
+
+    <!-- Site Feed Autodiscovery-->
+    <$BlogSiteFeedLink$>
+    <!-- Atom API Posting Autodiscovery -->
+    <$BlogAPIPostLink$>
+    <!-- Blogger API Autodiscovery -->
+    <$BlogRSDURL$>
+		
+		<!-- Meta Information -->
+		<meta http-equiv="Content-Type" content="text/html; charset=<$BlogEncoding$>" />
+		<meta name="MSSmartTagsPreventParsing" content="true" />
+	</head>
+
+<body>
+
+
+<!-- Heading -->
+<div id="header">
+	<h1><$BlogTitle$></h1>
+	<p id="description"><$BlogDescription$></p>
+</div>
+
+
+<!-- Main Column -->
+<div id="mainClm">
+
+
+<!-- Blog Posts -->
+<Blogger>
+     <BlogDateHeader>
+          <h3><$BlogDateHeaderDate$></h3>
+     </BlogDateHeader>
+     
+     <BlogItemTitle><h2><$BlogItemTitle$><a name="<$BlogItemNumber$>">&nbsp;</a></h2></BlogItemTitle>
+		<div class="blogPost">
+          <$BlogItemBody$><br />
+          <div class="byline"><a href="<$BlogItemPermalinkURL$>" title="permanent link">#</a> posted by <$BlogItemAuthorNickname$> : <$BlogItemDateTime$></div>
+		</div>
+</Blogger>
+
+<!-- 	In accordance to the Blogger terms of service, please leave this button somewhere on your blogger-powered page. Thanks! -->
+
+<p align="center"><small><span class="footer">&copy; 2006 </span></small> <a href="<$BlogURL$>" 
+
+title="<$BlogTitle$>"><$BlogTitle$></a> | <a 
+
+href="http://www.geckoandfly.com/blogspot-templates/">Blogger Templates </a> by <a href="http://www.geckoandfly.com/make-money-online">Gecko &amp; 
+
+Fly</a>.<br>
+</span><span class="style3">No part of the content or the blog may be reproduced without  permission. <br>
+  Learn how to <a 
+
+href="http://www.geckoandfly.com/make-money-online">make money online</a>.</span></p>
+
+</div>
+
+
+<!-- Sidebar -->
+<div id="sideBar">
+
+
+
+  <div align="right">
+<form method="get" action="http://www.google.com/custom" target="_top">
+<table border="0" bgcolor="">
+<tr><td nowrap="nowrap" valign="top" align="right" height="32">
+
+<br/>
+<input type="hidden" name="domains" value="<$BlogTitle$>"></input>
+<input type="text" name="q" size="23" maxlength="255" value=""></input>
+</td></tr>
+<tr>
+<td align="right" nowrap="nowrap">
+<table>
+<tr>
+<td>
+<input type="radio" name="sitesearch" value="" checked="checked"></input>
+<font size="-1" color="#ffffff">Web</font>
+</td>
+<td>
+<input type="radio" name="sitesearch" value="<$BlogURL$>"></input>
+<font size="-1" color="#ffffff">This Blog</font>
+</td>
+</tr>
+</table>
+<input type="submit" name="sa" value="Google Search"></input>
+<input type="hidden" name="client" value="pub-5066699886314238"></input>
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="ie" value="ISO-8859-1"></input>
+<input type="hidden" name="oe" value="ISO-8859-1"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:20;LW:50;L:http://www.google.com/images/logo.gif;S:http://;FORID:1;"></input>
+<input type="hidden" name="hl" value="en"></input>
+</td></tr></table>
+</form></div>
+
+
+		<!-- 
+			
+			+++++++++++++++++++++++++++++++++++++++++++++++++
+					
+			Add things to your sidebar here.
+			Use the format:
+			
+			<li><a href="URL">Link Text</a></li>
+		
+			+++++++++++++++++++++++++++++++++++++++++++++++++
+					
+		-->
+		<h6>Links</h6>
+		<ul>
+                    <li><a href="http:www.geckoandfly.com">Gecko & Fly</a></li>
+                    <li><a href="http://www.geckoandfly.com/make-money-online">Make Money Online</a></li>
+                    <li><a href="http://www.geckoandfly.com/blogspot-templates">Blogger Templates</a></li>
+                    <li><a href="http://www.geocities.com/making_real_money_online">Internet Marketing</a></li>
+		</ul>
+
+		<h6>Archives</h6>
+		<ul>
+			<BloggerArchives><li><a href='<$BlogArchiveURL$>'><$BlogArchiveName$></a></li></BloggerArchives> 
+			<script type="text/javascript" language="Javascript">if (location.href.indexOf("archive")!=-1) document.write("<li><strong><a href=\"<$BlogURL$>\">Current Posts</a></strong></li>");</script>
+		</ul>
+<p><a href="http://www.blogger.com"><img width="88" height="31" src="http://buttons.blogger.com/bloggerbutton1.gif" border="0" alt="This page is powered by Blogger. Isn't yours?" /></a></p>
+<p><a href="http://www.geckoandfly.com"><img src="http://photos1.blogger.com/blogger/7994/1253/1600/make_money_online_blogspot_template.4.jpg" alt="make money online blogger templates" width="88" height="31" border="0" longdesc="http://www.geckoandfly.com/blogspot-templates" /></a></p>
+</div>
+
+</body>
+</html>

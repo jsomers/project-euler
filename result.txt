@@ -1,0 +1,6 @@
+  <root>
+    <points/>
+    <points>rubyonSails (1) |  | prefs|submit|help|blog|logout</points>
+    <points>hotnewbrowserecommendedsavedstats</points>
+    <points>search</points>
+  </root>

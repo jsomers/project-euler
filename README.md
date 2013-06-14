@@ -1,4 +1,14 @@
-project-euler
-=============
+I [learned to program](www.theatlantic.com/technology/archive/2011/06/how-i-failed-failed-and-finally-succeeded-at-learning-how-to-code/239855/) by solving [Project Euler](http://projecteuler.net/) problems. It went like this:
 
-Solutions to more than a hundred Project Euler problems
+- I had already worked through the exercises in the first few chapters of [SICP](http://mitpress.mit.edu/sicp/). I'd _tried_ programming many times. And so I was able to attack the first few Project Euler problems with confidence.
+- I made surprisingly steady progress on the next twenty or so. If you look at the Date Modified column in the folder where I keep my solutions, you can see that in the early days I was running at a clip of one or two problems per day.
+- I remember I spent five or six days struggling with a single problem. I think it might have been [problem #23](http://projecteuler.net/problem=23). It was around May 31st, 2007. I remember I was in Montreal for my brother's birthday. On that exact day, I can see now by searching Gmail, I received a notice from my university informing me that I was on academic probation; I had failed at least one class. I hadn't yet told my parents of my terrible grades.
+- And here I was, yet again, hitting a wall. I felt like a fuckup. I remember it gave me this terrible feeling of despair. I didn't like how I had quit so many things in my life. It was a pattern: I'd excitedly start something, I'd see a lot of quick progress, and then I'd hit that streth of difficulty that divides amateurs from experts -- the [pons asinorum](http://en.wikipedia.org/wiki/Pons_asinorum) that turns hopeful young men into quitters -- and I'd move on to something else.
+- The difference this time around, interestingly enough, was that I had just read Seth Godin's [The Dip: A Little Book That Teaches You When to Quit (and When to Stick)](http://www.amazon.com/The-Dip-Little-Teaches-Stick/dp/1591841666). That book made me recognize the pattern. I _saw_ myself hitting a wall. It was very clear: where before I'd taken a few hours to solve a problem, maybe an afternoon, here I was taking several _days_. If you charted my progress you'd vividly _see_ the dip. And I decided I wouldn't, this one time, quit. I remember deciding to fight.
+- The frustrating and beautiful thing about Project Euler problems is that the solution is always a single integer. No one tells you whether you're "close." You have either solved the problem or you haven't. There was always this hopeful pause after you submitted a possible solution, before the next page loaded. You'd see one of two images -- and more often than not it was a big red X.
+- I can't tell you how much it meant to me to finally see the green check mark on that one problem in Montreal.
+- I went on to solve 142 of them.
+
+In this repository I've collected as many as the solutions I have on hand. I believe I stopped storing them in this folder after a while.
+
+The problems do become steadily more involved. There was a time shortly after college where I'd spend at least an hour a day -- often three or four -- chipping away at some high-numbered problem. Often you'd need a mathematical insight to solve them. But by then I'd gotten good at fighting. I'd gotten sort of relentless.
