@@ -1,4 +1,4 @@
-I [learned to program](www.theatlantic.com/technology/archive/2011/06/how-i-failed-failed-and-finally-succeeded-at-learning-how-to-code/239855/) by solving [Project Euler](http://projecteuler.net/) problems. It went like this:
+I [learned to program](http://www.theatlantic.com/technology/archive/2011/06/how-i-failed-failed-and-finally-succeeded-at-learning-how-to-code/239855/) by solving [Project Euler](http://projecteuler.net/) problems. It went like this:
 
 - I had already worked through the exercises in the first few chapters of [SICP](http://mitpress.mit.edu/sicp/). I'd _tried_ programming many times. And so I was able to attack the first few Project Euler problems with confidence.
 - I made surprisingly steady progress on the next twenty or so. If you look at the **Date Modified** column in the folder where I keep my solutions, you can see that in the early days I was running at a clip of one or two problems per day.
